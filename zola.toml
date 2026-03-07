@@ -7,7 +7,10 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-theme = "zola-pickles"
+theme = "lightspeed"
+
+title = "The Epic Grass Blog"
+description = "The blog for serious grass-touchers"
 
 [markdown]
 
