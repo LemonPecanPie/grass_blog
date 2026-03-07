@@ -10,7 +10,7 @@ build_search_index = false
 theme = "lightspeed"
 
 title = "The Epic Grass Blog"
-description = "The blog for serious grass-touchers"
+description = "The high-stakes blog for serious grass-touchers"
 
 [markdown]
 
